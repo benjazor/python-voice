@@ -8,4 +8,4 @@ Testing a "Text to speech" library
 2. Source the virtual environement  
 ```source venv/bin/activate```
 3. Install pyttsx3 in the virtual environement  
-```pip install pyttsx3```
+```pip install pyttsx3 requests```
